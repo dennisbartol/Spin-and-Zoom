@@ -18,7 +18,7 @@ section {
     height: 450px; 
     overflow: hidden; 
     border-radius: 16px;
-    box-shadow: 4px 4px 12px #010101;
+    box-shadow: 0px 4px 12px #010101;
 }
 
 .img img { 
