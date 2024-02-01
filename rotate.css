@@ -13,3 +13,21 @@ section {
     height: 100vh; 
 }
 
+.img { 
+    width: 450px; 
+    height: 450px; 
+    overflow: hidden; 
+    border-radius: 16px;
+    box-shadow: 4px 4px 12px #010101;
+}
+
+.img img { 
+    object-fit: contain;
+    width: 100%; 
+    transition: transform .6s ease-in-out; 
+    
+}
+
+.img:hover img { 
+    transform: scale(1.4) rotate(22deg);
+}
