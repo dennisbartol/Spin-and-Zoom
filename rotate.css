@@ -3,13 +3,14 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: hotpink;
+    height: 100vh; 
 }
 
 section { 
     display: flex; 
     align-items: center;
     justify-content: center;
-    height: 100vh; 
+    
 }
 
 .img { 
