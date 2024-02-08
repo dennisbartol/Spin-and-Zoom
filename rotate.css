@@ -31,3 +31,8 @@ section {
 .img:hover img { 
     transform: scale(1.4) rotate(22deg);
 }
+
+
+@media screen (max-width: 600px) {
+/*         */
+}
