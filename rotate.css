@@ -37,15 +37,18 @@ section {
 
 @media screen and (max-width: 600px) {
  section { 
-    width: 400px; 
-    height: 310px; 
     display: grid; 
     align-items: center;
     justify-content: center;
     
  }
 
-    .img img { 
+.img { 
+    width: 400px; 
+    height: 310px; 
+    }
+
+.img img { 
     object-fit: cover;
     width: 100%; 
     top: 0; 
