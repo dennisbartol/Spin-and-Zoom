@@ -35,8 +35,8 @@ section {
 
 @media screen and (max-width: 600px) {
  section { 
-    width: 20rem; 
-    height: 20rem; 
+    width: 50%; 
+    height: 50%; 
     display: flex; 
     align-items: center;
     justify-content: center;
