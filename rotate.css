@@ -33,6 +33,12 @@ section {
 }
 
 
-@media screen (max-width: 600px) {
-/*         */
+@media screen and (max-width: 600px) {
+ section { 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+ }
+
 }
