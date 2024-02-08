@@ -34,12 +34,12 @@ section {
 
 @media screen and (max-width: 600px) {
  section { 
-    width: 90%; 
+    width: 50%; 
     height: 50%; 
     display: flex; 
     align-items: center;
     justify-content: center;
-    height: 100vh; 
+    
  }
 
     .img img { 
