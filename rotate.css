@@ -13,8 +13,8 @@ section {
 }
 
 .img { 
-    width: 60%; 
-    height: 40%; 
+    width: 30em; 
+    height: 30em; 
     overflow: hidden; 
     border-radius: 16px;
     box-shadow: 0px 4px 12px #010101;
