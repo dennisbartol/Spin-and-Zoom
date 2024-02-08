@@ -45,7 +45,8 @@ section {
 
 .img { 
     width: 400px; 
-    height: 310px; 
+    /* height: 310px; */
+    height: 400px; 
     }
 
 .img img { 
