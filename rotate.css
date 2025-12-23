@@ -2,14 +2,14 @@ body {
     margin: 0; 
     padding: 0;
     box-sizing: border-box;
-    
+    background: linear-gradient(to bottom right, #5B7FF1, #33CCFC);
 }
 
 section { 
     display: flex; 
     align-items: center;
     justify-content: center;
-    background-color: hotpink;
+    /* background-color: hotpink; */
     height: 100vh; 
 }
 
