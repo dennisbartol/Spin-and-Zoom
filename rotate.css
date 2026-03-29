@@ -31,3 +31,7 @@ section {
 .img:hover img { 
     transform: scale(1.4) rotate(22deg);
 }
+
+.img:active img {
+    transform: scale(1.4) rotate(22deg);
+}
