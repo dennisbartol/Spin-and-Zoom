@@ -43,9 +43,11 @@ section {
  .img {
      width: 90vw;
      height: 90vh;
+
+/*
      max-width: 30rem;
      msx-height: 30rem;
-
+*/
    } 
 
 } 
