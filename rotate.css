@@ -36,3 +36,16 @@ section {
 .img:active img {
     transform: scale(1.4) rotate(22deg);
 }
+
+
+
+@media screen and (max-width: 768px) {
+ .img {
+     width: 90vw;
+     height: 90vh;
+     max-width: 30rem;
+     msx-height: 30rem;
+
+   } 
+
+} 
