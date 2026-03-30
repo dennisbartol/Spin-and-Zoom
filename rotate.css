@@ -44,10 +44,10 @@ section {
      width: 90vw;
      height: 90vw;
 
-/*
+
      max-width: 30rem;
-     msx-height: 30rem;
-*/
+     max-height: 30rem;
+
    } 
 
 } 
