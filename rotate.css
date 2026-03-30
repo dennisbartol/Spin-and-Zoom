@@ -4,7 +4,7 @@ body {
     box-sizing: border-box;
     background: linear-gradient(to bottom right, #33CCFC, #5B7FF1);
     height: 100dvh;
-    height: 100vh; /* Fallback */
+    /* height: 100vh; Fallback */
 
 }
 
